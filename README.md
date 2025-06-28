@@ -2,7 +2,7 @@
 There are 2 files that actually modifies your warframe cpu priority to high.
 # Batchfile
 The bat file calls the ps1 file (powershell) to execute itself with some params.
- **Params**
+ # Params
 -**script_path** the ps1 file. <br/>
 -**steam_game_id** the steam game id. <br/>
 -**launcher_name** Warframe game launcher. <br/>
