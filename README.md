@@ -1,5 +1,6 @@
 # SetHighCPUpriorityToWarframeAtStart
-It doesnt work by registry, there are 2 files that actually modifies your warframe(steam version) cpu priority to high on Windows. You must run the batchfile.
+It doesnt work by registry. <br/>
+There are 2 files that actually modifies your warframe(steam version) cpu priority to high on Windows. You must run the batchfile.
 # Batchfile
 The bat file calls the ps1 file (powershell) to execute itself with some params.
  # Params
